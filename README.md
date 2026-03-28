@@ -1,4 +1,23 @@
-<body>
+<style>
+      body {
+        background-color: #000000;
+      }
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+      .text-center {
+        text-align: center;
+      }
+      .display-4 {
+        font-size: 2.5rem;
+      }
+      .mt-5 {
+        margin-top: 5rem;
+      }
+    </style>
+
+    <body>
     <div class="container mt-5">
       <div class="row">
         <div class="col-md-12 text-center">
@@ -7,7 +26,6 @@
       </div>
     </div>
   </body>
-
 
 
 <!--
