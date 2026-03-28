@@ -1,4 +1,4 @@
-<div style="align:center"><i>Hanif</i></div>
+<div align="center"><i>Hanif</i></div>
 
 <!--
 **instahari/instahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
