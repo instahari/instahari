@@ -1,32 +1,4 @@
-<style>
-      body {
-        background-color: #000000;
-      }
-      .container {
-        max-width: 800px;
-        margin: 0 auto;
-      }
-      .text-center {
-        text-align: center;
-      }
-      .display-4 {
-        font-size: 2.5rem;
-      }
-      .mt-5 {
-        margin-top: 5rem;
-      }
-    </style>
-
-    <body>
-    <div class="container mt-5">
-      <div class="row">
-        <div class="col-md-12 text-center">
-          <h1 class="display-4" style="color: aqua">Hi,</h1>
-        </div>
-      </div>
-    </div>
-  </body>
-
+<div><h1>Hanif</h1></div>
 
 <!--
 **instahari/instahari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
