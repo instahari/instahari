@@ -1,4 +1,4 @@
-<div align="center" style="color:yellow"><font color="yellow"><i>Hanif</i></font></div>  
+<div align="center"><font color="yellow"><i>Hanif</i></font></div>  
 
 
 
